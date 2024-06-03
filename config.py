@@ -1,0 +1,2 @@
+TELEGRAM_BOT_TOKEN = "6745626892:AAHpxxNBOizzTsKi3jatpZtsqDqdlfsTMP4"
+NGROK_TUNNEL_URL = "https://7e87-213-230-86-123.ngrok-free.app"

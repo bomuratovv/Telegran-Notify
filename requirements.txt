@@ -1,0 +1,5 @@
+﻿aiogram
+fastapi
+pydantic
+uvicorn
+gunicorn
